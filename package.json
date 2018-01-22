@@ -1,0 +1,23 @@
+{
+  "name": "splitscreen",
+  "version": "1.0.0",
+  "description": "Split screen using CSS & js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntociAlinGeorgian/SplitScreen%5D.git"
+  },
+  "author": "Alin Georgian Antoci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntociAlinGeorgian/SplitScreen%5D/issues"
+  },
+  "homepage": "https://github.com/AntociAlinGeorgian/SplitScreen%5D#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
